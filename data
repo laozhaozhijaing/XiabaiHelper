@@ -1,5 +1,3 @@
 [
-    { "title": "404网站", "url": "https://www.google.com" },
-    { "title": "OpenAI", "url": "https://www.openai.com" },
-    { "title": "GitHub", "url": "https://www.github.com" }
+    { "title": "使用指南", "url": "https://www.google.com" }
 ]
