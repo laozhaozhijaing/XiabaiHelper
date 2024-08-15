@@ -1,0 +1,5 @@
+[
+    { "title": "Google", "url": "https://www.google.com" },
+    { "title": "OpenAI", "url": "https://www.openai.com" },
+    { "title": "GitHub", "url": "https://www.github.com" }
+]
