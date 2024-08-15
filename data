@@ -1,10 +1,16 @@
-{
-    "links": [
-        { "title": "示例链接1", "url": "https://example.com/1" },
-        { "title": "示例链接2", "url": "https://example.com/2" }
-    ],
-    "books": [
-        { "title": "计算机科学概论" },
-        { "title": "Python编程：从入门到实践" }
-    ]
-}
+[
+    {
+        "name": "链接列表",
+        "items": [
+            { "title": "Example Link 1", "url": "https://example.com" },
+            { "title": "Example Link 2", "url": "https://example.com" }
+        ]
+    },
+    {
+        "name": "书单",
+        "items": [
+            { "title": "Example Book 1", "url": "https://examplebook1.com" },
+            { "title": "Example Book 2", "url": "https://examplebook2.com" }
+        ]
+    }
+]
