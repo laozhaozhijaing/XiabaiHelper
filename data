@@ -28,7 +28,7 @@
         ]
     }
     {
-        "name": "工具列表",
+        "name": "6666",
         "items": [
             { "title": "示例工具 1", "url": "https://example.com/tool1" },
             { "title": "示例工具 2", "url": "https://example.com/tool2" }
