@@ -26,5 +26,12 @@
             { "title": "示例工具 1", "url": "https://example.com/tool1" },
             { "title": "示例工具 2", "url": "https://example.com/tool2" }
         ]
+    },
+    {
+        "name": "工具列表",
+        "items": [
+            { "title": "示例工具 1", "url": "https://example.com/tool1" },
+            { "title": "示例工具 2", "url": "https://example.com/tool2" }
+        ]
     }
 ]
