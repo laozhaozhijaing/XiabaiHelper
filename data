@@ -1,9 +1,37 @@
 [
     {
-        "name": "用前必看",
+        "name": "链接列表",
         "items": [
             { "title": "示例链接 1", "url": "https://example.com/link1" },
             { "title": "示例链接 2", "url": "https://example.com/link2" }
         ]
     },
+    {
+        "name": "书单",
+        "items": [
+            { "title": "示例书籍 1", "url": "https://example.com/book1" },
+            { "title": "示例书籍 2", "url": "https://example.com/book2" }
+        ]
+    },
+    {
+        "name": "视频列表",
+        "items": [
+            { "title": "示例视频 1", "url": "https://example.com/video1" },
+            { "title": "示例视频 2", "url": "https://example.com/video2" }
+        ]
+    },
+    {
+        "name": "工具列表",
+        "items": [
+            { "title": "示例工具 1", "url": "https://example.com/tool1" },
+            { "title": "示例工具 2", "url": "https://example.com/tool2" }
+        ]
+    }
+    {
+        "name": "工具列表",
+        "items": [
+            { "title": "示例工具 1", "url": "https://example.com/tool1" },
+            { "title": "示例工具 2", "url": "https://example.com/tool2" }
+        ]
+    }
 ]
